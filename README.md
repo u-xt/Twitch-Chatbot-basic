@@ -21,3 +21,5 @@ Repl.it>> https://repl.it/
 AWS>> https://amazonaws.com/
 
 You can also run the code from an old phone on a terminal, old computer or hire a cheap VPS since this code does not require much
+
+Installing the requirements is very easy, you can just open cmd and paste it or look for help on youtube if you are very dumb
